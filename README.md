@@ -1,5 +1,6 @@
 # flix bypass; my version
 A simplified version of the extension made by *Amachik* because I couldn't make theirs work so I just rewrote it :D https://github.com/Amachik/HouseholdNoMore
+All icons, ideas and base code are from them!
 
 MAIN BRANCH ONLY WORKS IN THE FOLLOWING
 - Google Chrome
